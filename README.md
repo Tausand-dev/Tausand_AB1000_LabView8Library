@@ -26,13 +26,13 @@ Supported Model(s): AB1002, AB1004 <br/>
 Model(s) Tested: AB1002, AB1004<br/>
 Interface(s): USB
 
-Driver Revision:1.0<br/>
+Driver Revision:1.1<br/>
 Original Release Date: 17/06/2019 (dd/mm/yyyy)<br/>
-Current Revision Date: 17/06/2019
+Current Revision Date: 7/07/2019
 
 ### 2. Required Software
 Some software components need to be installed before using this instrument driver. The minimum versions of these components are listed below, and can be downloaded from the Download Site.
-* VISA 5.4 or later
+* NI-VISA 15.0.1 or later
 * LabVIEW 8.0 or later
 
 ### 3. Known Issues
@@ -44,3 +44,7 @@ The latest version of this and other Tausand instrument drivers can be downloade
 * REV 1.0, 17/06/2019<br/>
 Created by: David Guzmán, dguzman@tausand.com, Bogota, Colombia.<br/>
 Original release.
+
+* REV 1.1, 7/07/2019<br/>
+Created by: David Guzmán, dguzman@tausand.com, Bogota, Colombia.<br/>
+Fix in waiting per acquisition complete function.
