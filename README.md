@@ -27,8 +27,8 @@ Model(s) Tested: AB1002, AB1004<br/>
 Interface(s): USB
 
 Driver Revision:1.1<br/>
-Original Release Date: 17/06/2019 (dd/mm/yyyy)<br/>
-Current Revision Date: 7/07/2019
+Original Release Date: 06/17/2019 (mm/dd/yyyy)<br/>
+Current Revision Date: 07/07/2019
 
 ### 2. Required Software
 Some software components need to be installed before using this instrument driver. The minimum versions of these components are listed below, and can be downloaded from the Download Site.
@@ -41,10 +41,10 @@ To report issues or provide feedback about this instrument driver, please send a
 ### 4. Revision History
 The latest version of this and other Tausand instrument drivers can be downloaded at Tausand downloads website.
 
-* REV 1.0, 17/06/2019<br/>
+* REV 1.0, 06/17/2019<br/>
 Created by: David Guzmán, dguzman@tausand.com, Bogota, Colombia.<br/>
 Original release.
 
-* REV 1.1, 7/07/2019<br/>
+* REV 1.1, 07/07/2019<br/>
 Created by: David Guzmán, dguzman@tausand.com, Bogota, Colombia.<br/>
 Fix in waiting per acquisition complete function.
