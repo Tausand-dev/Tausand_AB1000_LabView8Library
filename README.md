@@ -47,4 +47,4 @@ Original release.
 
 * REV 1.1, 07/10/2019<br/>
 Updated by: David Guzmán, dguzman@tausand.com, Bogota, Colombia.<br/>
-Update on _Wait for Acquisition Complete_ VI. Now it returns a warning instead of an error when max timeout is reached.
+Change on NI-VISA requirements to version 15.0.1 or later. Update on _Wait for Acquisition Complete_ VI. Now it returns a warning instead of an error when max timeout is reached. 
