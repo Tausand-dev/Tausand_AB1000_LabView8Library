@@ -13,102 +13,102 @@
    <Item Name="Public" Type="Folder">
       <Property Name="NI.LibItem.Scope" Type="Int">1</Property>
       <Item Name="Action-Status" Type="Folder">
-         <Item Name="Action-Status.mnu" Type="Document" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Action-Status/Action-Status.mnu"/>
-         <Item Name="Counters ID Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Action-Status/Counters ID Query.vi"/>
-         <Item Name="Time Left Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Action-Status/Time Left Query.vi"/>
+         <Item Name="Action-Status.mnu" Type="Document" URL="Public/Action-Status/Action-Status.mnu"/>
+         <Item Name="Counters ID Query.vi" Type="VI" URL="Public/Action-Status/Counters ID Query.vi"/>
+         <Item Name="Time Left Query.vi" Type="VI" URL="Public/Action-Status/Time Left Query.vi"/>
       </Item>
       <Item Name="Configure" Type="Folder">
          <Item Name="Conversion" Type="Folder">
-            <Item Name="Configure_Conversion.mnu" Type="Document" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Configure/Conversion/Configure_Conversion.mnu"/>
-            <Item Name="Bundle by Name Settings 2ch.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Configure/Conversion/Bundle by Name Settings 2ch.vi"/>
-            <Item Name="Bundle by Name Settings 4ch.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Configure/Conversion/Bundle by Name Settings 4ch.vi"/>
-            <Item Name="Unbundle by Name Settings 2ch.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Configure/Conversion/Unbundle by Name Settings 2ch.vi"/>
-            <Item Name="Unbundle by Name Settings 4ch.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Configure/Conversion/Unbundle by Name Settings 4ch.vi"/>
-            <Item Name="Settings2ch To Settings4ch.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Configure/Conversion/Settings2ch To Settings4ch.vi"/>
-            <Item Name="Settings4ch To Settings2ch.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Configure/Conversion/Settings4ch To Settings2ch.vi"/>
+            <Item Name="Configure_Conversion.mnu" Type="Document" URL="Public/Configure/Conversion/Configure_Conversion.mnu"/>
+            <Item Name="Bundle by Name Settings 2ch.vi" Type="VI" URL="Public/Configure/Conversion/Bundle by Name Settings 2ch.vi"/>
+            <Item Name="Bundle by Name Settings 4ch.vi" Type="VI" URL="Public/Configure/Conversion/Bundle by Name Settings 4ch.vi"/>
+            <Item Name="Unbundle by Name Settings 2ch.vi" Type="VI" URL="Public/Configure/Conversion/Unbundle by Name Settings 2ch.vi"/>
+            <Item Name="Unbundle by Name Settings 4ch.vi" Type="VI" URL="Public/Configure/Conversion/Unbundle by Name Settings 4ch.vi"/>
+            <Item Name="Settings2ch To Settings4ch.vi" Type="VI" URL="Public/Configure/Conversion/Settings2ch To Settings4ch.vi"/>
+            <Item Name="Settings4ch To Settings2ch.vi" Type="VI" URL="Public/Configure/Conversion/Settings4ch To Settings2ch.vi"/>
          </Item>
          <Item Name="Query" Type="Folder">
-            <Item Name="Configure_Query.mnu" Type="Document" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Configure/Query/Configure_Query.mnu"/>
-            <Item Name="Query All Settings.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Configure/Query/Query All Settings.vi"/>
-            <Item Name="Query Coincidence Window.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Configure/Query/Query Coincidence Window.vi"/>
-            <Item Name="Query Delay.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Configure/Query/Query Delay.vi"/>
-            <Item Name="Query Multiple Coincidence.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Configure/Query/Query Multiple Coincidence.vi"/>
-            <Item Name="Query Sampling Time.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Configure/Query/Query Sampling Time.vi"/>
-            <Item Name="Query Sleep.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Configure/Query/Query Sleep.vi"/>
+            <Item Name="Configure_Query.mnu" Type="Document" URL="Public/Configure/Query/Configure_Query.mnu"/>
+            <Item Name="Query All Settings.vi" Type="VI" URL="Public/Configure/Query/Query All Settings.vi"/>
+            <Item Name="Query Coincidence Window.vi" Type="VI" URL="Public/Configure/Query/Query Coincidence Window.vi"/>
+            <Item Name="Query Delay.vi" Type="VI" URL="Public/Configure/Query/Query Delay.vi"/>
+            <Item Name="Query Multiple Coincidence.vi" Type="VI" URL="Public/Configure/Query/Query Multiple Coincidence.vi"/>
+            <Item Name="Query Sampling Time.vi" Type="VI" URL="Public/Configure/Query/Query Sampling Time.vi"/>
+            <Item Name="Query Sleep.vi" Type="VI" URL="Public/Configure/Query/Query Sleep.vi"/>
          </Item>
-         <Item Name="Configure.mnu" Type="Document" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Configure/Configure.mnu"/>
-         <Item Name="Configure By Name.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Configure/Configure By Name.vi"/>
-         <Item Name="Configure Channel.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Configure/Configure Channel.vi"/>
-         <Item Name="Configure Coincidence Window.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Configure/Configure Coincidence Window.vi"/>
-         <Item Name="Configure Delay.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Configure/Configure Delay.vi"/>
-         <Item Name="Configure Measurement.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Configure/Configure Measurement.vi"/>
-         <Item Name="Configure Multiple Coincidence.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Configure/Configure Multiple Coincidence.vi"/>
-         <Item Name="Configure Sampling Time.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Configure/Configure Sampling Time.vi"/>
-         <Item Name="Configure Sleep.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Configure/Configure Sleep.vi"/>
+         <Item Name="Configure.mnu" Type="Document" URL="Public/Configure/Configure.mnu"/>
+         <Item Name="Configure By Name.vi" Type="VI" URL="Public/Configure/Configure By Name.vi"/>
+         <Item Name="Configure Channel.vi" Type="VI" URL="Public/Configure/Configure Channel.vi"/>
+         <Item Name="Configure Coincidence Window.vi" Type="VI" URL="Public/Configure/Configure Coincidence Window.vi"/>
+         <Item Name="Configure Delay.vi" Type="VI" URL="Public/Configure/Configure Delay.vi"/>
+         <Item Name="Configure Measurement.vi" Type="VI" URL="Public/Configure/Configure Measurement.vi"/>
+         <Item Name="Configure Multiple Coincidence.vi" Type="VI" URL="Public/Configure/Configure Multiple Coincidence.vi"/>
+         <Item Name="Configure Sampling Time.vi" Type="VI" URL="Public/Configure/Configure Sampling Time.vi"/>
+         <Item Name="Configure Sleep.vi" Type="VI" URL="Public/Configure/Configure Sleep.vi"/>
       </Item>
       <Item Name="Controls" Type="Folder">
-         <Item Name="channelRing.ctl" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Controls/channelRing.ctl"/>
-         <Item Name="configMultipleCoincRing.ctl" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Controls/configMultipleCoincRing.ctl"/>
-         <Item Name="counters2ch.ctl" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Controls/counters2ch.ctl"/>
-         <Item Name="counters4ch.ctl" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Controls/counters4ch.ctl"/>
-         <Item Name="deviceTypeRing.ctl" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Controls/deviceTypeRing.ctl"/>
-         <Item Name="serialCommand.ctl" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Controls/serialCommand.ctl"/>
-         <Item Name="settings2ch.ctl" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Controls/settings2ch.ctl"/>
-         <Item Name="settings4ch.ctl" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Controls/settings4ch.ctl"/>
+         <Item Name="channelRing.ctl" Type="VI" URL="Public/Controls/channelRing.ctl"/>
+         <Item Name="configMultipleCoincRing.ctl" Type="VI" URL="Public/Controls/configMultipleCoincRing.ctl"/>
+         <Item Name="counters2ch.ctl" Type="VI" URL="Public/Controls/counters2ch.ctl"/>
+         <Item Name="counters4ch.ctl" Type="VI" URL="Public/Controls/counters4ch.ctl"/>
+         <Item Name="deviceTypeRing.ctl" Type="VI" URL="Public/Controls/deviceTypeRing.ctl"/>
+         <Item Name="serialCommand.ctl" Type="VI" URL="Public/Controls/serialCommand.ctl"/>
+         <Item Name="settings2ch.ctl" Type="VI" URL="Public/Controls/settings2ch.ctl"/>
+         <Item Name="settings4ch.ctl" Type="VI" URL="Public/Controls/settings4ch.ctl"/>
       </Item>
       <Item Name="Data" Type="Folder">
          <Item Name="Low Level" Type="Folder">
-            <Item Name="Data_Low Level.mnu" Type="Document" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Data/Low Level/Data_Low Level.mnu"/>
-            <Item Name="Wait for Acquisition Complete.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Data/Low Level/Wait for Acquisition Complete.vi"/>
+            <Item Name="Data_Low Level.mnu" Type="Document" URL="Public/Data/Low Level/Data_Low Level.mnu"/>
+            <Item Name="Wait for Acquisition Complete.vi" Type="VI" URL="Public/Data/Low Level/Wait for Acquisition Complete.vi"/>
          </Item>
          <Item Name="Conversion" Type="Folder">
-            <Item Name="Data_Conversion.mnu" Type="Document" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Data/Conversion/Data_Conversion.mnu"/>
-            <Item Name="Counters2ch To Counters4ch.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Data/Conversion/Counters2ch To Counters4ch.vi"/>
-            <Item Name="Counters4ch To Counters2ch.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Data/Conversion/Counters4ch To Counters2ch.vi"/>
-            <Item Name="Bundle by Name Data 2ch.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Data/Conversion/Bundle by Name Data 2ch.vi"/>
-            <Item Name="Bundle by Name Data 4ch.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Data/Conversion/Bundle by Name Data 4ch.vi"/>
+            <Item Name="Data_Conversion.mnu" Type="Document" URL="Public/Data/Conversion/Data_Conversion.mnu"/>
+            <Item Name="Counters2ch To Counters4ch.vi" Type="VI" URL="Public/Data/Conversion/Counters2ch To Counters4ch.vi"/>
+            <Item Name="Counters4ch To Counters2ch.vi" Type="VI" URL="Public/Data/Conversion/Counters4ch To Counters2ch.vi"/>
+            <Item Name="Bundle by Name Data 2ch.vi" Type="VI" URL="Public/Data/Conversion/Bundle by Name Data 2ch.vi"/>
+            <Item Name="Bundle by Name Data 4ch.vi" Type="VI" URL="Public/Data/Conversion/Bundle by Name Data 4ch.vi"/>
          </Item>
-         <Item Name="Data.mnu" Type="Document" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Data/Data.mnu"/>
-         <Item Name="Read Measurement.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Data/Read Measurement.vi"/>
+         <Item Name="Data.mnu" Type="Document" URL="Public/Data/Data.mnu"/>
+         <Item Name="Read Measurement.vi" Type="VI" URL="Public/Data/Read Measurement.vi"/>
       </Item>
       <Item Name="Utility" Type="Folder">
-         <Item Name="Utility.mnu" Type="Document" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Utility/Utility.mnu"/>
-         <Item Name="Device Type Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Utility/Device Type Query.vi"/>
-         <Item Name="Idn Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Utility/Idn Query.vi"/>
-         <Item Name="Find Devices.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Utility/Find Devices.vi"/>
+         <Item Name="Utility.mnu" Type="Document" URL="Public/Utility/Utility.mnu"/>
+         <Item Name="Device Type Query.vi" Type="VI" URL="Public/Utility/Device Type Query.vi"/>
+         <Item Name="Idn Query.vi" Type="VI" URL="Public/Utility/Idn Query.vi"/>
+         <Item Name="Find Devices.vi" Type="VI" URL="Public/Utility/Find Devices.vi"/>
       </Item>
-      <Item Name="dir.mnu" Type="Document" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/dir.mnu"/>
-      <Item Name="Open.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Open.vi"/>
-      <Item Name="Close.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Close.vi"/>
-      <Item Name="VI Tree.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/VI Tree.vi"/>
+      <Item Name="dir.mnu" Type="Document" URL="Public/dir.mnu"/>
+      <Item Name="Open.vi" Type="VI" URL="Public/Open.vi"/>
+      <Item Name="Close.vi" Type="VI" URL="Public/Close.vi"/>
+      <Item Name="VI Tree.vi" Type="VI" URL="Public/VI Tree.vi"/>
    </Item>
    <Item Name="Private" Type="Folder">
       <Property Name="NI.LibItem.Scope" Type="Int">2</Property>
       <Item Name="AB1008 future" Type="Folder">
-         <Item Name="registerCluster.ctl" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Public/Controls/registerCluster.ctl"/>
-         <Item Name="constant_ADDRESS_DIR_AB1008.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Private/AB1008 future/constant_ADDRESS_DIR_AB1008.vi"/>
-         <Item Name="registersToCounters8ch.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Private/AB1008 future/registersToCounters8ch.vi"/>
-         <Item Name="counters8chToCounters2ch.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Private/AB1008 future/counters8chToCounters2ch.vi"/>
-         <Item Name="counters8chToCounters4ch.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Private/AB1008 future/counters8chToCounters4ch.vi"/>
-         <Item Name="counters2chToCounters8ch.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Private/AB1008 future/counters2chToCounters8ch.vi"/>
-         <Item Name="counters4chToCounters8ch.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Private/AB1008 future/counters4chToCounters8ch.vi"/>
-         <Item Name="bundle by name data 8ch.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Private/AB1008 future/bundle by name data 8ch.vi"/>
-         <Item Name="counters8ch.ctl" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Private/AB1008 future/counters8ch.ctl"/>
-         <Item Name="settings8chToSettings2ch.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Private/AB1008 future/settings8chToSettings2ch.vi"/>
-         <Item Name="settings8chToSettings4ch.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Private/AB1008 future/settings8chToSettings4ch.vi"/>
-         <Item Name="settings8ch.ctl" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Private/AB1008 future/settings8ch.ctl"/>
+         <Item Name="registerCluster.ctl" Type="VI" URL="Public/Controls/registerCluster.ctl"/>
+         <Item Name="constant_ADDRESS_DIR_AB1008.vi" Type="VI" URL="Private/AB1008 future/constant_ADDRESS_DIR_AB1008.vi"/>
+         <Item Name="registersToCounters8ch.vi" Type="VI" URL="Private/AB1008 future/registersToCounters8ch.vi"/>
+         <Item Name="counters8chToCounters2ch.vi" Type="VI" URL="Private/AB1008 future/counters8chToCounters2ch.vi"/>
+         <Item Name="counters8chToCounters4ch.vi" Type="VI" URL="Private/AB1008 future/counters8chToCounters4ch.vi"/>
+         <Item Name="counters2chToCounters8ch.vi" Type="VI" URL="Private/AB1008 future/counters2chToCounters8ch.vi"/>
+         <Item Name="counters4chToCounters8ch.vi" Type="VI" URL="Private/AB1008 future/counters4chToCounters8ch.vi"/>
+         <Item Name="bundle by name data 8ch.vi" Type="VI" URL="Private/AB1008 future/bundle by name data 8ch.vi"/>
+         <Item Name="counters8ch.ctl" Type="VI" URL="Private/AB1008 future/counters8ch.ctl"/>
+         <Item Name="settings8chToSettings2ch.vi" Type="VI" URL="Private/AB1008 future/settings8chToSettings2ch.vi"/>
+         <Item Name="settings8chToSettings4ch.vi" Type="VI" URL="Private/AB1008 future/settings8chToSettings4ch.vi"/>
+         <Item Name="settings8ch.ctl" Type="VI" URL="Private/AB1008 future/settings8ch.ctl"/>
       </Item>
-      <Item Name="constant_ADDRESS_DIR_AB1002.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Private/constant_ADDRESS_DIR_AB1002.vi"/>
-      <Item Name="constant_ADDRESS_DIR_AB1004.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Private/constant_ADDRESS_DIR_AB1004.vi"/>
-      <Item Name="convertEngToSci.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Private/convertEngToSci.vi"/>
-      <Item Name="convertSciToEng.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Private/convertSciToEng.vi"/>
-      <Item Name="roundToNearestMultiple.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Private/roundToNearestMultiple.vi"/>
-      <Item Name="writeSerial.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Private/writeSerial.vi"/>
-      <Item Name="writeSerial32.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Private/writeSerial32.vi"/>
-      <Item Name="readDatastream.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Private/readDatastream.vi"/>
-      <Item Name="datastreamToDataArrays.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Private/datastreamToDataArrays.vi"/>
-      <Item Name="datastreamToDataArrays32.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Private/datastreamToDataArrays32.vi"/>
-      <Item Name="coerceToList.vi" Type="VI" URL="/&lt;instrlib&gt;/Tausand AB1000/Private/coerceToList.vi"/>
+      <Item Name="constant_ADDRESS_DIR_AB1002.vi" Type="VI" URL="Private/constant_ADDRESS_DIR_AB1002.vi"/>
+      <Item Name="constant_ADDRESS_DIR_AB1004.vi" Type="VI" URL="Private/constant_ADDRESS_DIR_AB1004.vi"/>
+      <Item Name="convertEngToSci.vi" Type="VI" URL="Private/convertEngToSci.vi"/>
+      <Item Name="convertSciToEng.vi" Type="VI" URL="Private/convertSciToEng.vi"/>
+      <Item Name="roundToNearestMultiple.vi" Type="VI" URL="Private/roundToNearestMultiple.vi"/>
+      <Item Name="writeSerial.vi" Type="VI" URL="Private/writeSerial.vi"/>
+      <Item Name="writeSerial32.vi" Type="VI" URL="Private/writeSerial32.vi"/>
+      <Item Name="readDatastream.vi" Type="VI" URL="Private/readDatastream.vi"/>
+      <Item Name="datastreamToDataArrays.vi" Type="VI" URL="Private/datastreamToDataArrays.vi"/>
+      <Item Name="datastreamToDataArrays32.vi" Type="VI" URL="Private/datastreamToDataArrays32.vi"/>
+      <Item Name="coerceToList.vi" Type="VI" URL="Private/coerceToList.vi"/>
    </Item>
-   <Item Name="Tausand AB1000 Readme.html" Type="Document" URL="/&lt;instrlib&gt;/Tausand AB1000/Tausand AB1000 Readme.html"/>
+   <Item Name="Tausand AB1000 Readme.html" Type="Document" URL="Tausand AB1000 Readme.html"/>
 </Library>
