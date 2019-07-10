@@ -1,5 +1,5 @@
 # Tausand_AB1000_LabView8Library
-library and examples to use Tausand Abacus AB1000 devices with LabView 8.0 or later
+Library and examples to use Tausand Abacus AB1000 devices with LabView 8.0 or later
 
 This is a Plug and Play (project-style) library for LabView. To use it:
 * Download the library.
@@ -26,13 +26,13 @@ Supported Model(s): AB1002, AB1004 <br/>
 Model(s) Tested: AB1002, AB1004<br/>
 Interface(s): USB
 
-Driver Revision:1.0<br/>
-Original Release Date: 17/06/2019 (dd/mm/yyyy)<br/>
-Current Revision Date: 17/06/2019
+Driver Revision: 1.1<br/>
+Original Release Date: 06/17/2019 (mm/dd/yyyy)<br/>
+Current Revision Date: 07/10/2019
 
 ### 2. Required Software
 Some software components need to be installed before using this instrument driver. The minimum versions of these components are listed below, and can be downloaded from the Download Site.
-* VISA 5.4 or later
+* NI-VISA 15.0.1 or later
 * LabVIEW 8.0 or later
 
 ### 3. Known Issues
@@ -41,6 +41,10 @@ To report issues or provide feedback about this instrument driver, please send a
 ### 4. Revision History
 The latest version of this and other Tausand instrument drivers can be downloaded at Tausand downloads website.
 
-* REV 1.0, 17/06/2019<br/>
+* REV 1.0, 06/17/2019<br/>
 Created by: David Guzmán, dguzman@tausand.com, Bogota, Colombia.<br/>
 Original release.
+
+* REV 1.1, 07/10/2019<br/>
+Updated by: David Guzmán, dguzman@tausand.com, Bogota, Colombia.<br/>
+Change on NI-VISA requirements to version 15.0.1 or later. Update on _Wait for Acquisition Complete_ VI. Now it returns a warning instead of an error when max timeout is reached. 
