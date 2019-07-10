@@ -280,6 +280,7 @@
             <Property Name="NI.Lib.ShowInTree" Type="Bool">true</Property>
          </Item>
       </Item>
+      <Item Name="testIdnAbacus.vi" Type="VI" URL="../../../../../Users/David/Desktop/testIdnAbacus.vi"/>
       <Item Name="Dependencies" Type="Dependencies"/>
       <Item Name="Build Specifications" Type="Build"/>
    </Item>
