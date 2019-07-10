@@ -1,5 +1,5 @@
 # Tausand_AB1000_LabView8Library
-library and examples to use Tausand Abacus AB1000 devices with LabView 8.0 or later
+Library and examples to use Tausand Abacus AB1000 devices with LabView 8.0 or later
 
 This is a Plug and Play (project-style) library for LabView. To use it:
 * Download the library.
@@ -28,7 +28,7 @@ Interface(s): USB
 
 Driver Revision:1.1<br/>
 Original Release Date: 06/17/2019 (mm/dd/yyyy)<br/>
-Current Revision Date: 07/07/2019
+Current Revision Date: 07/10/2019
 
 ### 2. Required Software
 Some software components need to be installed before using this instrument driver. The minimum versions of these components are listed below, and can be downloaded from the Download Site.
@@ -45,6 +45,6 @@ The latest version of this and other Tausand instrument drivers can be downloade
 Created by: David Guzmán, dguzman@tausand.com, Bogota, Colombia.<br/>
 Original release.
 
-* REV 1.1, 07/07/2019<br/>
-Created by: David Guzmán, dguzman@tausand.com, Bogota, Colombia.<br/>
-Fix in waiting per acquisition complete function.
+* REV 1.1, 07/10/2019<br/>
+Updated by: David Guzmán, dguzman@tausand.com, Bogota, Colombia.<br/>
+Update on _Wait for Acquisition Complete_ VI. Now it returns a warning instead of an error when max timeout is reached.
